@@ -16,7 +16,9 @@
 
 		<!-- Local styles. you can of course add a .css file here for cleaner interface -->
 		<style type="text/css">
-
+			body {
+				background-color: #cc99ff
+			}
 			.isRed {
 				color:orange;
 			}
@@ -31,11 +33,16 @@
 
 
 
-		<h1>TwoPotathoes</h1>
+		<font size="3" face="Comic Sans MS" color="#99ffe6"><h1>TwoPotathoes</h1></font>
 
 			<a href="../index.html">
 				<button class="btn btn-default">
-					<span class="fa fa-fw fa-chevron-left"></span> Dumm Coming Your Way
+					<style>
+						.btn {
+					 		background-color:#ffb366;
+					 	}
+					</style>
+					<span class="fa fa-fw fa-chevron-left"></span> dumm coming ur way
 				</button>
 			</a>
 
@@ -48,10 +55,10 @@
 
 		<div class="col-md-4"> <!-- page left -->
 
-			<input class="form-control input-lg" type="text" v-model="keyword" name="search" placeholder="Search..."> <!-- This is IMPORTANT!
+			<input class="form-control input-lg" type="text" v-model="keyword" name="search" placeholder="search..."> <!-- This is IMPORTANT!
 			It is the binding to the Vue2 model that processes the data -->
 
-			<div class="help-block">To Find Stupid</div>
+			<div class="help-block">to find stupid</div>
 
 		</div> <!-- end page left -->
 

@@ -37,11 +37,11 @@ const app = new Vue({
 		postlist: [
 			// constructed Post item
 			new Post(
-				'Arwen The Idiot!', 		// this is the TITLE place in the class
+				'sleeping dinosarwen', 		// this is the TITLE place in the class
 				'https://google.com',	// this is the LINK place in the class
 				'A Plebian',			// this is the AUTHOR place in the class
 				'http://www.lattimore.id.au/images/dinosaur-sleeping-blanket.jpg',	// this is the IMAGE place in the class
-				'She was sleeping in computer skills class.' // this is the BODY place in the class
+				'arwen was slumber in vomputer skills class' // this is the BODY place in the class
 				),
 
 			new Post(
