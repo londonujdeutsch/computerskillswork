@@ -38,26 +38,26 @@ const app = new Vue({
 			// constructed Post item
 			new Post(
 				'sleeping dinosarwen', 		// this is the TITLE place in the class
-				'https://google.com',	// this is the LINK place in the class
-				'A Plebian',			// this is the AUTHOR place in the class
+				'https://exemplore.com/cryptids/Mokele-Mbembe-and-Other-Dinosaurs-Still-Alive-in-Africa-Today',	// this is the LINK place in the class
+				'ju po',			// this is the AUTHOR place in the class
 				'http://www.lattimore.id.au/images/dinosaur-sleeping-blanket.jpg',	// this is the IMAGE place in the class
 				'arwen was slumber in vomputer skills class' // this is the BODY place in the class
 				),
 
 			new Post(
 				'Second Post: BeN anD FEde aRE One',
-				'https://vuejs.org',
+				'http://www.sacbadlands.com',
 				'HoeTP',
 				'FullSizeRender.jpg', // this is a local image in the same folder as the js script
 				'Fede was cold and decided to bird up'
 				),
 
 			new Post(
-				'This Post: Crazy Fredrick',
-				'https://google.com',
-				'Bob Author',
-				'https://unsplash.it/200',
-				'Crazy Fredrick bought many very exquisite opal jewels.'
+				'byers-mriggs',
+				'https://www.16personalities.com',
+				'ju po',
+				'FullSizeRender copy.jpg',
+				'i guess im just good at typing people \\(.")/'
 				),
 
 			new Post(
