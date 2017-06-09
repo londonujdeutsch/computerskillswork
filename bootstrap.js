@@ -56,24 +56,24 @@ const app = new Vue({
 				'byers-mriggs',
 				'https://www.16personalities.com',
 				'ju po',
-				'FullSizeRender copy.jpg',
+				'typing.png',
 				'i guess im just good at typing people \\(.")/'
 				),
 
 			new Post(
-				'Another Post: promptly judged',
-				'https://vuejs.org',
-				'Jane Author',
-				'https://unsplash.it/200',
-				'We promptly judged antique ivory buckles for the next prize.'
+				'Butter Up!',
+				'https://www.royal.uk/her-majesty-the-queen',
+				'Kim Duttery',
+				'butter londutter.png',
+				'cos whats better than gutters or shutters or flutters or tut-tutters or butter londutters'
 				),
 
 			new Post(
-				'Last Post: Jaded zombies',
-				'https://google.com',
-				'Anptoght Author',
-				'#',
-				'Jaded zombies acted quaintly but kept driving their oxen forward.'
+				'arngrey derg',
+				'https://www.youtube.com/watch?v=e4Hf7Cda4rM',
+				'duchess the dachshund',
+				'arngryderg.PNG',
+				'derg was merd >:('
 				)
 		]
 	},
